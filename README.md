@@ -9,26 +9,8 @@
  - I'm right handed  :point_left: 
  - I am often very annoying :)
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-widget.vercel.app/current/i6f7uegqakn6gmljfy8shlcl2)](https://open.spotify.com/user/i6f7uegqakn6gmljfy8shlcl2)
-
----
-
-
-### Contact with me 📝
-
-<p align="left">
-<a href="https://stackoverflow.com/users/15800762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15800762" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtt3a5Og_xAuANfizpNKtsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uctt3a5og_xauanfizpnktsw" height="30" width="40" /></a>
-<a href="https://discord.gg/Tejnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tejnox" height="30" width="40" /></a>
-</p>
-
-<br />
+<h3 align="left">❤️Support:</h3>
+<p><a href="https://www.buymeacoffee.com/tejnox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tejnox" /></a></p><br><br>
 
 ---
 
@@ -41,26 +23,20 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Maven](http://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)
 ![Intellij Idea](http://img.shields.io/badge/-Intellij_IDEA-2C2255?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=%23ffffff)
 
 <br/>
 
 ---
 
-<br/>
+### Github Statistics 📈
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tejnox&show_icons=true&theme=tokyonight&hide_border=true" alt="my Github Stats"/>
-    </a>
-    <a href="">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejnox&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="my Github Stats"/>
-    </a>
-</div
+![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=Tejnox&show_icons=true&theme=tokyonight&hide_border=true&line_height=30)
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Tejnox&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&line_height=30)
   
 <br/>
 
