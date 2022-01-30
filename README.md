@@ -27,7 +27,6 @@
 ![Intellij Idea](http://img.shields.io/badge/-Intellij_IDEA-2C2255?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=%23ffffff)
 
 <br/>
 
