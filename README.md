@@ -36,7 +36,7 @@
 ### Github Statistics 📈
 
 ![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=Tejnox&show_icons=true&theme=tokyonight&hide_border=true&line_height=30)
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Tejnox&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&line_height=30)
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Tejnox&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&line_height=40)
   
 <br/>
 
