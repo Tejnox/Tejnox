@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tejnox
 <img align="right" alt="PNG" height="180px" src="https://i.imgur.com/Z852S1Y.png" />
 
-- 📚 I’m currently learning everything about Python and Backend technologies 😅
+- 📚 I’m currently learning Python and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ### :star: Some fun facts!
