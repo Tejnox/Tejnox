@@ -14,18 +14,31 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Languages
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
+### Databases 
+
 ![MySQL](http://img.shields.io/badge/-MySQL-FF6347?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MariaDB](http://img.shields.io/badge/-MariaDB-32CD32?style=flat-square&logo=mariadb&logoColor=ffffff)
+
+### Tools  
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Maven](http://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)
+
+### Applications
+
 ![Intellij Idea](http://img.shields.io/badge/-Intellij_IDEA-2C2255?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
 ![PyCharm](http://img.shields.io/badge/-PyCharm-008080?style=flat-square&logo=PyCharm&logoColor=ffffff)
+![VSC](http://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)
+
+### Platforms
+
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 
