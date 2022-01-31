@@ -1,4 +1,4 @@
-# Hi there, I'm Tejnox
+# Hi 👋, I'm Tejnox
 <img align="right" alt="PNG" height="180px" src="https://i.imgur.com/Z852S1Y.png" />
 
 - 📚 I’m currently learning everything about Phyton and Backend technologies 😅
