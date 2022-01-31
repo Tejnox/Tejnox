@@ -7,7 +7,7 @@
 ### :star: Some fun facts!
  - I love Crime series, horror movies and thrillers;
  - I'm right handed  :point_left: 
- - I am often very annoying :)
+ - I'm often very annoying :)
 
 <h3 align="left">❤️Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tejnox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tejnox" /></a></p><br><br>
