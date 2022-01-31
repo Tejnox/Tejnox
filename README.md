@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tejnox
+# Hi 👋, I'm Tejnox <img src="https://komarev.com/ghpvc/?username=Tejnox"/>
 <img align="right" alt="PNG" height="180px" src="https://i.imgur.com/Z852S1Y.png" />
 
 - 📚 I’m currently learning Python and Backend technologies 😅
