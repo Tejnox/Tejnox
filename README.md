@@ -2,7 +2,7 @@
 <img align="right" alt="PNG" height="180px" src="https://i.imgur.com/Z852S1Y.png" />
 
 - 📚 I’m currently learning Python 😅
-- 💪🏼 Future Goals: Learn Backend technologies ;)
+- 💪🏼 Future Goals: Learn more backend technologies ;)
 
 ### :star: Some fun facts!
  - I love Crime series, horror movies and thrillers;
