@@ -10,7 +10,7 @@
  - I'm often very annoying :)
 
 <h3 align="left">❤️ Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tejnox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tejnox" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/tejnox"> <img align="left" src="https://i.imgur.com/NIjITjd.png" height="50" width="210" alt="tejnox" /></a></p><br><br>
 
 ---
 
@@ -23,7 +23,6 @@
 
 ![MySQL](http://img.shields.io/badge/-MySQL-FF6347?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MariaDB](http://img.shields.io/badge/-MariaDB-C4A484?style=flat-square&logo=mariadb&logoColor=ffffff)
-![MongoDB](http://img.shields.io/badge/-MongoDB-3FA037?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 ### Tools  
 
