@@ -1,8 +1,8 @@
 # Hi 👋, I'm Tejnox <img src="https://komarev.com/ghpvc/?username=Tejnox"/>
 <img align="right" alt="PNG" height="180px" src="https://i.imgur.com/Z852S1Y.png" />
 
-- 📚 I’m currently learning Python 😅
-- 💪🏼 Future Goals: Learn more backend technologies ;)
+- 📚 I’m currently learning JavaScript and Python 😅
+- 💪🏼 Future Goals: Being better with JS and Py 
 
 ### :star: Some fun facts!
  - I love Crime series, horror movies and thrillers;
