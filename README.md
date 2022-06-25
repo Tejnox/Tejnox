@@ -18,7 +18,6 @@
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](http://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)
 
 ### Databases 
 
