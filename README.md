@@ -17,12 +17,12 @@
 ### Languages
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
 ### Databases 
 
 ![MySQL](http://img.shields.io/badge/-MySQL-FF6347?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MariaDB](http://img.shields.io/badge/-MariaDB-C4A484?style=flat-square&logo=mariadb&logoColor=ffffff)
+![MongoDB](http://img.shields.io/badge/-MongoDB-32CD32?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 ### Tools  
 
@@ -34,6 +34,7 @@
 ### Applications
 
 ![Intellij Idea](http://img.shields.io/badge/-Intellij_IDEA-2C2255?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
+![WebStorm](http://img.shields.io/badge/-WebStorm-006994?style=flat-square&logo=webstorm&logoColor=ffffff)
 ![PyCharm](http://img.shields.io/badge/-PyCharm-008080?style=flat-square&logo=PyCharm&logoColor=ffffff)
 ![VSC](http://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)
 
