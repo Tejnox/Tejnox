@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tejnox <img src="https://komarev.com/ghpvc/?username=Tejnox"/>
-<img align="right" alt="PNG" height="180px" src="https://i.imgur.com/Z852S1Y.png" />
+<img align="right" alt="PNG" height="200px" src="https://i.e-z.host/7qd1tjjr.png" />
 
 - 📚 I’m currently learning JavaScript and Python 😅
 - 💪🏼 Future Goals: Being better with JS and Py 
